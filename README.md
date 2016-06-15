@@ -1,2 +1,3 @@
 # myProjs
 myProjects
+I store all my ideas and thoughts here...
